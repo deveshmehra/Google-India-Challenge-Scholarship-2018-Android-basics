@@ -1,5 +1,5 @@
 # Google-India-Challenge-Scholarship-2018-Android-basics
-My projects which I created during the course
+My apps which I created during this course
 
 1 >   HappyBirthday app
 
