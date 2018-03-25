@@ -7,6 +7,4 @@ My apps which I created during this course
 
 3 >   JustJava app
 
-4 >   PracticeSet2 app
-
-5 >   CourtCounter app 
+4 >   CourtCounter app 
